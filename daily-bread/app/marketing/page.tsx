@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { ArrowRight, BookOpen, Heart, Bell } from "lucide-react";
-import VerseCard from "../../components/features/verse-card.tsx";
+import VerseCard from "../../components/features/verse-card";
 
 export default function Home() {
   return (
